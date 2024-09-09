@@ -91,6 +91,5 @@ Vou devez implémenter :
 - https://www.codequoi.com/manipuler-un-fichier-a-laide-de-son-descripteur-en-c/
 - https://www.codequoi.com/errno-et-la-gestion-derreur-en-c/
 
-## Valide
-![image](https://github.com/vfuster66/42-Minishell/assets/124174795/a3b1966a-0225-42f5-94fd-2608c06fbf34)
+
 
